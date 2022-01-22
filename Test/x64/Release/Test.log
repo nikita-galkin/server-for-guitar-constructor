@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\vipni\source\repos\Test\Test\main.cpp(5,2): error C3861: server: идентификатор не найден
+  Session.cpp
+C:\Users\vipni\source\repos\Test\Test\Session.cpp(1,10): fatal error C1083: Не удается открыть файл включение: DB.h: No such file or directory,

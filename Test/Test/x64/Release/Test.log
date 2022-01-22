@@ -1,0 +1,12 @@
+﻿  Session.cpp
+C:\Users\d3156\source\repos\Test\Test\Session.cpp(18,11): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\d3156\source\repos\Test\Test\Session.cpp(58,5): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\d3156\source\repos\Test\Test\Session.cpp(65,6): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\d3156\source\repos\Test\Test\Session.cpp(150,8): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\d3156\source\repos\Test\Test\Session.cpp(216,5): warning C4267: аргумент: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  Создание кода
+  2 of 475 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Test.vcxproj -> C:\Users\d3156\source\repos\Test\x64\Release\Test.exe

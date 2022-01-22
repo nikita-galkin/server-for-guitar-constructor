@@ -1,0 +1,41 @@
+[1635796070]Server started
+[1635796333]Server started
+[1635796362]Session start with client on 127.0.0.1:57282, sockID = 536
+[1635796362]Session started
+[1635796362]Size = 5 String from client = Start
+[1635796362]Access denied for user 'root'@'localhost' (using password: YES)Error in sending request
+[1635796462]Server started
+[1635796466]Session start with client on 127.0.0.1:3267, sockID = 540
+[1635796466]Session started
+[1635796466]Size = 5 String from client = Start
+[1635796682]Server started
+[1635796688]Session start with client on 127.0.0.1:9921, sockID = 540
+[1635796688]Session started
+[1635796688]Size = 5 String from client = Start
+[1635796704]Size = 3 String from client = 1|2
+[1635796704]Size = 3 String from client = 2|2
+[1635796704]Size = 3 String from client = 4|2
+[1635796704]Size = 3 String from client = 6|3
+[1635796704]Size = 3 String from client = 8|2
+[1635796704]Size = 3 String from client = 9|3
+[1635796712]Size = 7 String from client = ENDCALC
+[1635796712]Size = 1 String from client = 1
+[1635796712]Size = 3 String from client = hui
+[1635796712]Size = 1 String from client = 2
+[1635796712]Size = 14 String from client = Телефон
+[1635796712]Size = 1 String from client = 3
+[1635796712]Size = 66 String from client = Ссылка на пример окраски(если нужно)
+[1635796712]Size = 1 String from client = 4
+[1635796712]Size = 94 String from client = Ссылка на 3D - модель желаемой гитары(не обязательно)
+[1635796712]Size = 1 String from client = 5
+[1635796712]Size = 47 String from client = Дополнительные пожелания
+[1635796712]Size = 1 String from client = 6
+[1635796712]Size = 15 String from client = 3||2|2||3|2|||2
+[1635796712]ID2
+[1635796712]ID3
+[1635796712]ID4
+[1635796712]ID5
+[1635796712]ID6
+[1635796712]ID7
+[1635796712]Size = 13 String from client = ENDCLIENTINFO
+[1635796712]Session stopped sockID = 540
